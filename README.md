@@ -7,3 +7,5 @@ Livro de receitas do curso :hand:
 
 
 - Lista de instrução
+- Lasanha
+- Panquecas
